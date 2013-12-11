@@ -1,0 +1,10 @@
+{
+    "name": "My Timer",
+    "description": "My Timer for work control",
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "icons": {
+        "16": "app-icon-16.png",
+        "128": "app-icon-128.png"
+    }
+}
