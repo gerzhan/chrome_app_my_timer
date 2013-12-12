@@ -4,7 +4,14 @@
     "manifest_version": 2,
     "version": "0.0.1",
     "icons": {
-        "16": "app-icon-16.png",
-        "128": "app-icon-128.png"
+        "16": "img/app-icon-16.png",
+        "128": "img/app-icon-128.png"
+    },
+    "app": {
+        "background": {
+            "scripts": [
+                "app/main.js"
+            ]
+        }
     }
 }
