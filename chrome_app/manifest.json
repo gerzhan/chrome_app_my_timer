@@ -2,7 +2,7 @@
     "name": "My Timer",
     "description": "My Timer for work control",
     "manifest_version": 2,
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icons": {
         "16": "img/app-icon-16.png",
         "128": "img/app-icon-128.png"
@@ -10,7 +10,7 @@
     "app": {
         "background": {
             "scripts": [
-                "app/main.js"
+                "background.js"
             ]
         }
     }
